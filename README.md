@@ -1,0 +1,2 @@
+# RealmApp
+npm install realm
